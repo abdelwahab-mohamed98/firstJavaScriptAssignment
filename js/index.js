@@ -162,3 +162,31 @@ else {
   console.log("Days In Month : 30 Days")
 }
 */
+
+// 14th Task In JS First Assignment
+/*
+var firstSubject = Number(window.prompt("Enter First Degree"));
+var secondSubject = Number(window.prompt("Enter Second Degree"));
+var thirdSubject = Number(window.prompt("Enter Third Degree"));
+var fourthSubject = Number(window.prompt("Enter Fourth Degree"));
+var fifthSubject = Number(window.prompt("Enter Fifth Degree"));
+var avarge = (firstSubject + secondSubject + thirdSubject + fourthSubject + fifthSubject) / 5;
+if(avarge>=90) {
+  console.log("Grad A")
+}
+else if(avarge>=80 && avarge<90) {
+  console.log("Grad B")
+}
+else if(avarge>=70 && avarge<80) {
+  console.log("Grad C")
+}
+else if(avarge>=60 && avarge<70) {
+  console.log("Grad D")
+}
+else if(avarge>=40 && avarge<60) {
+  console.log("Grad E")
+}
+else {
+  console.log("Grad F")
+}
+*/
