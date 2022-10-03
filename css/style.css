@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.task {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f3f3f3;
+  color: #333;
+  font-size: 5rem;
+}
