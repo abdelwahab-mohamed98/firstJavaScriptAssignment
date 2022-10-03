@@ -242,3 +242,28 @@ switch(firstNumber > secondNumber) {
   break;
 }
 */
+
+// 18th Task In JS First Assignment
+/*
+var userNumber = Number(window.prompt("Enter Number To Check"));
+switch(userNumber % 2 ==0){
+  case(true):
+    console.log("Even Number");
+  break;
+  case(false):
+    console.log("Odd Number");
+  break;
+}
+*/
+
+// 19th Task In JS First Assignment
+/*
+var userNumber = Number(window.prompt("Enter Number To Check"));
+switch(userNumber >= 0){
+  case(true):
+    console.log("Positive Number");
+  break;
+  default:
+    console.log("Negative Number");
+}
+*/
