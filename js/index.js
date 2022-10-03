@@ -190,3 +190,22 @@ else {
   console.log("Grad F")
 }
 */
+
+// 15th Task In JS First Assignment
+var numberOfMonth = Number(window.prompt("Enter Month Number"));
+switch(numberOfMonth) {
+  case(1) :
+  case(3) :
+  case(5) :
+  case(7) :
+  case(8) :
+  case(10) :
+  case(12) :
+  console.log("Days In Month : 31 Days");
+  break;
+  case(2) :
+  console.log("Days In Month : 28 Days");
+  break;
+  default :
+  console.log("Days In Month : 30 Days");
+}
