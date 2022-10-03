@@ -192,6 +192,7 @@ else {
 */
 
 // 15th Task In JS First Assignment
+/*
 var numberOfMonth = Number(window.prompt("Enter Month Number"));
 switch(numberOfMonth) {
   case(1) :
@@ -209,3 +210,35 @@ switch(numberOfMonth) {
   default :
   console.log("Days In Month : 30 Days");
 }
+*/
+
+// 16th Task In JS First Assignment
+/*
+var userChar = window.prompt("Enter Character To Check");
+switch(userChar) {
+  case("a"):
+  case("e"):
+  case("l"):
+  case("o"):
+  case("u"):
+    console.log("Vowel Character");
+  break;
+
+  default:
+    console.log("Constant Character")
+}
+*/
+
+// 17th Task In JS First Assignment
+/*
+var firstNumber = Number(window.prompt("Enter First Message"));
+var secondNumber = Number(window.prompt("Enter Second Message"));
+switch(firstNumber > secondNumber) {
+  case(true):
+    console.log("Max : " + firstNumber);
+  break;
+  case(false):
+    console.log("Max : " + secondNumber);
+  break;
+}
+*/
